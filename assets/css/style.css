@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Alata&family=Josefin+Sans:ital,wght@0,300;1,300&display=swap");
+
+:root {
+  --primary-white: hsl(0, 0%, 100%);
+  --primary-black: hsl(0, 0%, 0%);
+  --primary-dark-gray: hsl(0, 0%, 55%);
+  --primary-darkier-gray: hsl(0, 0%, 41%);
+  --main-fs: 15px;
+  --font-alata: "Alata", sans-serif;
+  --font-josefin: "Josefin Sans", sans-serif;
+  --fw-regular: 400;
+  --fw-thin: 300;
+  --body-max-width: 80%;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
